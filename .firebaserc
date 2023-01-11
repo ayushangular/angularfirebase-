@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "firstproject-3510b": {
+      "hosting": {
+        "kanban-fire": [
+          "firstproject-3510b"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "firstproject-3510b"
+  }
+}
